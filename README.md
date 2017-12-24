@@ -1,4 +1,4 @@
-# [Architecture](Architecture.md)
+# [Architecture and design](Architecture and design.md)
 
 # [Kotlin](Kotlin.md)
 
