@@ -9,3 +9,5 @@
 # [Android](Android.md)
 
 # [Reactive programming](Reactive%20programming.md)
+
+# [Miscellaneous](Miscellaneous.md)
